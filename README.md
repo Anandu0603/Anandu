@@ -30,3 +30,5 @@
 
 ###
 <br><br>
+
+![snake gif](https://github.com/Anandu0603/Anandu0603/blob/output/github-contribution-grid-snake.svg)
